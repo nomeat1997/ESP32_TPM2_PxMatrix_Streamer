@@ -1,0 +1,3 @@
+[submodule "lib/TPM2"]
+	path = lib/TPM2
+	url = https://github.com/rstephan/TPM2
